@@ -1,3 +1,19 @@
+Features
+
+Multi-language support: Analyzes Go, PHP, Python, HTML, CSS, and SQL files
+Comprehensive extraction: Identifies functions, classes, methods, variables, imports, control flow, and more
+Cross-file relationships: Discovers connections between different files and code elements
+Optimized output: Generates AI-friendly patterns for efficient consumption by machine learning models
+Selective analysis: Target specific files or directories, with customizable include/exclude patterns
+Default venv exclusion: Automatically excludes Python virtual environments to reduce noise
+
+Use Cases
+
+Generate concise code summaries for AI assistants
+Help AI tools understand complex codebases without providing full source code
+Create documentation and dependency graphs
+
+
 Use is fairly straight forward:
 
 go mod init distiller
