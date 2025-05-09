@@ -1,3 +1,5 @@
+Tested extensively with Claude, haven't tried it with anything else.
+
 Features
 
 Multi-language support: Analyzes Go, PHP, Python, HTML, CSS, and SQL files
